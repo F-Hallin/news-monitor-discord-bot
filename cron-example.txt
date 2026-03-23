@@ -1,0 +1,1 @@
+*/15 * * * * /usr/bin/python3 /path/to/news-monitor/main.py >> /path/to/news-monitor/cron.log 2>&1
